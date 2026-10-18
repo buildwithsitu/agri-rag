@@ -3,42 +3,123 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
 endobj
 5 0 obj
-<< /Length 1183 >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 4250 >>
 stream
-BT /F1 14 Tf 50 720 Td (Cotton Crop Management and Pest Control Guide) Tj ET
-BT /F1 10 Tf 50 690 Td (Cotton \(Gossypium\) is an essential commercial cash crop globally.) Tj ET
-BT /F1 10 Tf 50 672 Td (Common Cotton Pests:) Tj ET
-BT /F1 10 Tf 50 654 Td (1. American Bollworm \(Helicoverpa armigera\): Causes severe damage to bolls and squares.) Tj ET
-BT /F1 10 Tf 50 636 Td (   Management: Install pheromone traps \(5 traps per hectare\) and spray Bacillus thuringiensis \(Bt\).) Tj ET
-BT /F1 10 Tf 50 618 Td (2. Aphids and Whiteflies: Sap-sucking insects that cause leaf curling and transmit viruses.) Tj ET
-BT /F1 10 Tf 50 600 Td (   Management: Spray neem oil \(5 ml per liter\) or apply imidacloprid in severe infestations.) Tj ET
-BT /F1 10 Tf 50 582 Td (3. Pink Bollworm: Bores into flower buds and mature bolls.) Tj ET
-BT /F1 10 Tf 50 564 Td (   Management: Adopt crop rotation and destroy crop residues post-harvest.) Tj ET
-BT /F1 10 Tf 50 546 Td (Irrigation and Fertilizer:) Tj ET
-BT /F1 10 Tf 50 528 Td (Cotton requires 700 to 1200 mm of water throughout the growing season.) Tj ET
-BT /F1 10 Tf 50 510 Td (Avoid waterlogging during flowering and boll formation stages.) Tj ET
+BT /F2 13 Tf 35 755 Td (Complete Cotton \(Gossypium spp.\) Agronomy, IPM & Production Manual - Page 1) Tj ET
 
+BT /F2 10 Tf 35 732 Td (1. Taxonomy & Cultivated Species) Tj ET
+BT /F1 8.5 Tf 35 719 Td (- Gossypium hirsutum \(Upland/American Cotton\): Tetraploid \(2n=52\); accounts for >90% of global commercial production.) Tj ET
+BT /F1 8.5 Tf 35 707 Td (- Gossypium barbadense \(Egyptian/Pima/Sea Island\): Tetraploid \(2n=52\); prized for extra-long staple \(ELS\) luxury fibers.) Tj ET
+BT /F1 8.5 Tf 35 695 Td (- Gossypium arboreum \(Tree Cotton\) & G. herbaceum \(Levant Cotton\): Diploids \(2n=26\); drought & pest tolerant short-staple.) Tj ET
+
+BT /F2 10 Tf 35 675 Td (2. Edaphic \(Soil\) & Climatic Requirements) Tj ET
+BT /F1 8.5 Tf 35 662 Td (- Soil Type: Deep, friable, well-drained black cotton soils \(Vertisols\), alluvial, or red loamy soils with good moisture retention.) Tj ET
+BT /F1 8.5 Tf 35 650 Td (- Soil pH & Salinity: Optimal pH 6.0 to 8.0; moderately tolerant to salinity \(EC threshold ~7.7 dS/m\), highly sensitive to waterlogging.) Tj ET
+BT /F1 8.5 Tf 35 638 Td (- Climate: Requires 180-200 frost-free days, abundant sunshine. Germination: >16 C; Vegetative: 21-27 C; Fruiting: 27-32 C day / cool nights.) Tj ET
+
+BT /F2 10 Tf 35 618 Td (3. Crop Phenology & Growth Stages \(Days After Sowing - DAS\)) Tj ET
+BT /F1 8.5 Tf 35 605 Td (- Emergence to Seedling \(0-30 DAS\): Epigeal germination in 5-10 days; deep taproot establishment; high vulnerability to thrips/aphids.) Tj ET
+BT /F1 8.5 Tf 35 593 Td (- Squaring \(35-55 DAS\): Appearance of floral buds \(squares\); rapid nodal development and canopy expansion.) Tj ET
+BT /F1 8.5 Tf 35 581 Td (- Peak Flowering to Boll Formation \(60-100 DAS\): White flowers turn pink then shed petals; peak water and potassium demand.) Tj ET
+BT /F1 8.5 Tf 35 569 Td (- Boll Maturation & Dehiscence \(110-160+ DAS\): Fiber elongation \(days 1-20 post-anthesis\) and secondary wall thickening \(days 20-45\).) Tj ET
+
+BT /F2 10 Tf 35 549 Td (4. Land Preparation, Seed Treatment & Sowing Agronomy) Tj ET
+BT /F1 8.5 Tf 35 536 Td (- Tillage: Deep summer plowing \(20-30 cm\) with moldboard plow every 2-3 years to expose pupae and perennial weeds \(Cyperus rotundus\).) Tj ET
+BT /F1 8.5 Tf 35 524 Td (- Acid Delinting: Treat fuzzy seed with concentrated H2SO4 \(100 ml/kg seed\) for 2-3 mins, wash thoroughly, and lime-neutralize.) Tj ET
+BT /F1 8.5 Tf 35 512 Td (- Seed Dressing \(per kg\): Imidacloprid 70 WS \(5-7 g\) for sucking pests + Carboxin 75 WP \(2 g\) + Trichoderma viride \(10 g\) for root rot.) Tj ET
+BT /F1 8.5 Tf 35 500 Td (- Seed Rate & Spacing: Bt Hybrids: 1.5-2.5 kg/ha at 90-120 x 45-60 cm. HDPS \(High Density Planting System\): 10-12 kg/ha at 60 x 10 cm.) Tj ET
+BT /F1 8.5 Tf 35 488 Td (- Refugia Mandate: Plant 5% non-Bt cotton \(or 20% in bag-in-bag systems\) to delay bollworm resistance to Cry1Ac and Cry2Ab toxins.) Tj ET
+
+BT /F2 10 Tf 35 468 Td (5. Integrated Nutrient Management \(INM\) & Physiological Disorders) Tj ET
+BT /F1 8.5 Tf 35 455 Td (- Organic Manuring: Incorporate 10-12 tonnes/ha of well-decomposed Farm Yard Manure \(FYM\) or vermicompost 2-3 weeks prior to sowing.) Tj ET
+BT /F1 8.5 Tf 35 443 Td (- NPK Dosage: Hybrids: 120-150:60:60 kg N:P2O5:K2O/ha. Varieties: 60-90:30:30 kg/ha. Apply 100% P & K + 25% N as basal dose.) Tj ET
+BT /F1 8.5 Tf 35 431 Td (- Top Dressing: Apply remaining 75% Nitrogen in 3 equal splits at 30 DAS \(thinning\), 60 DAS \(squaring\), and 90 DAS \(peak flowering\).) Tj ET
+BT /F1 8.5 Tf 35 419 Td (- Micronutrients: Soil apply ZnSO4 \(25 kg/ha\) and Borax \(5-10 kg/ha\) in deficient soils; Boron prevents hollow-heart and square shedding.) Tj ET
+BT /F1 8.5 Tf 35 407 Td (- Foliar Nutrition: Spray 2% KNO3 \(13:0:45\) or 2% DAP at 60, 75, and 90 DAS to boost boll weight and fiber micronaire.) Tj ET
+BT /F1 8.5 Tf 35 395 Td (- Leaf Reddening \(Lalya\): Caused by Mg deficiency and night temperature drops. Manage with 1% MgSO4 + 1% Urea foliar spray at 60-75 DAS.) Tj ET
+BT /F1 8.5 Tf 35 383 Td (- Tirak \(Bad Boll Opening\): Premature cracking with immature lint on saline/light soils. Mitigate via timely irrigation and K application.) Tj ET
+BT /F1 8.5 Tf 35 371 Td (- Physiological Square Shedding: Spray Naphthalene Acetic Acid \(NAA / Planofix\) at 10-20 ppm at flower initiation and 15 days later.) Tj ET
+
+BT /F2 10 Tf 35 351 Td (6. Irrigation Scheduling, Weed Control & Canopy Management) Tj ET
+BT /F1 8.5 Tf 35 338 Td (- Water Requirement: 700-1200 mm total. Critical moisture stages: Squaring \(35-45 DAS\), Flowering \(60-75 DAS\), Boll Development \(85-105 DAS\).) Tj ET
+BT /F1 8.5 Tf 35 326 Td (- Irrigation Methods: Furrow irrigation \(alternate furrow saves 30% water\) or Drip Fertigation \(increases water-use efficiency by 40-50%\).) Tj ET
+BT /F1 8.5 Tf 35 314 Td (- Pre-Emergence Weed Control: Spray Pendimethalin 30 EC \(3.3 L/ha\) or Pendimethalin 38.7 CS \(1.75 L/ha\) within 48 hours of sowing.) Tj ET
+BT /F1 8.5 Tf 35 302 Td (- Post-Emergence & Intercultivation: Hoeing at 25 and 45 DAS; directed spray of Pyrithiobac-sodium 10 EC \(625 ml/ha\) + Quizalofop-ethyl.) Tj ET
+BT /F1 8.5 Tf 35 290 Td (- Canopy Regulation: Detopping terminal bud at 90-100 DAS or spraying Mepiquat Chloride 5% AS \(50 ppm / 1 ml/L\) at 60 and 75 DAS.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4310 >>
+stream
+BT /F2 13 Tf 35 755 Td (Complete Cotton \(Gossypium spp.\) Agronomy, IPM & Production Manual - Page 2) Tj ET
+
+BT /F2 10 Tf 35 732 Td (7. Comprehensive Integrated Pest Management \(IPM\) & Economic Threshold Levels \(ETL\)) Tj ET
+
+BT /F2 9 Tf 35 716 Td (A. Bollworm Complex \(Lepidoptera\)) Tj ET
+BT /F1 8.5 Tf 35 704 Td (- American Bollworm \(Helicoverpa armigera\): Larvae feed on squares/bolls with half body outside; circular bore holes with flared bracts.) Tj ET
+BT /F1 8.5 Tf 35 692 Td (  ETL: 1 larva/plant or 5-10% damaged fruiting bodies. Control: HaNPV \(250-500 LE/ha\), Emamectin benzoate 5 SG \(0.4 g/L\), Chlorantraniliprole.) Tj ET
+BT /F1 8.5 Tf 35 680 Td (- Pink Bollworm \(Pectinophora gossypiella\): Internal feeder; causes 'rosette flowers', interlocular burrowing, stained lint, ruined seeds.) Tj ET
+BT /F1 8.5 Tf 35 668 Td (  ETL: 10% rosette flowers or 8 moths/pheromone trap/night for 3 nights. Control: Gossyplure traps \(20/ha\), Profenofos 50 EC or Spinetoram.) Tj ET
+BT /F1 8.5 Tf 35 656 Td (- Spotted Bollworm \(Earias vittella & E. insulana\): Terminal shoot boring \(drooping/withering\) in early stages; lint-fouling frass in bolls.) Tj ET
+BT /F1 8.5 Tf 35 644 Td (  ETL: 5% withered shoots or damaged bolls. Control: Clip and destroy infested shoots; release Trichogramma chilonis \(1.5 lakh/ha\).) Tj ET
+BT /F1 8.5 Tf 35 632 Td (- Tobacco Caterpillar \(Spodoptera litura\): Gregarious larvae skeletonize leaves. Control: Castor trap crop; SlNPV; Novaluron 10 EC.) Tj ET
+
+BT /F2 9 Tf 35 614 Td (B. Sap-Sucking & Foliage Pest Complex) Tj ET
+BT /F1 8.5 Tf 35 602 Td (- Whitefly \(Bemisia tabaci\): Sucks phloem sap, excretes honeydew \(sooty mold\), transmits CLCuD. ETL: 6-8 adults or 20 nymphs/leaf.) Tj ET
+BT /F1 8.5 Tf 35 590 Td (  Control: Yellow sticky traps \(25/ha\); Neem oil 0.5%; Diafenthiuron 50 WP \(1.2 g/L\), Pyriproxyfen 10 EC \(2 ml/L\), or Spiromesifen.) Tj ET
+BT /F1 8.5 Tf 35 578 Td (- Leafhopper / Jassids \(Amrasca biguttula biguttula\): Causes downward leaf curling, yellowing, marginal reddening, and 'hopper burn'.) Tj ET
+BT /F1 8.5 Tf 35 566 Td (  ETL: 2-3 nymphs/leaf or Grade II injury. Control: Grow hairy varieties; spray Flonicamid 50 WG \(0.3 g/L\) or Dinotefuran 20 SG \(0.3 g/L\).) Tj ET
+BT /F1 8.5 Tf 35 554 Td (- Aphids \(Aphis gossypii\) & Thrips \(Thrips tabaci\): Aphids cause crinkling; Thrips lacerate leaves causing silvery patches and brittle curl.) Tj ET
+BT /F1 8.5 Tf 35 542 Td (  ETL: 10-15% infested plants \(Aphids\) or 10 thrips/leaf. Control: Conserve Coccinellids/Chrysoperla; spray Thiamethoxam or Spinosad.) Tj ET
+BT /F1 8.5 Tf 35 530 Td (- Mealybug \(Phenacoccus solenopsis\): Waxy colonies on stems cause stunted, bushy shoots. Control: Destroy Parthenium weeds; Buprofezin 25 SC.) Tj ET
+BT /F1 8.5 Tf 35 518 Td (- Red & Dusky Cotton Bugs \(Dysdercus koenigii & Oxycarenus laetus\): Stain lint yellow/red and reduce seed oil content and viability.) Tj ET
+
+BT /F2 10 Tf 35 498 Td (8. Plant Pathology & Disease Management) Tj ET
+BT /F1 8.5 Tf 35 485 Td (- Cotton Leaf Curl Disease \(CLCuD\): Begomovirus \(Geminiviridae\) vectored by Bemisia tabaci. Symptoms: Vein thickening, cup-shaped enations.) Tj ET
+BT /F1 8.5 Tf 35 473 Td (  Management: Eradicate weed hosts \(Sida, Abutilon\); sow tolerant hybrids; strictly avoid synthetic pyrethroids to prevent whitefly resurgence.) Tj ET
+BT /F1 8.5 Tf 35 461 Td (- Bacterial Blight / Blackarm \(Xanthomonas citri pv. malvacearum\): Water-soaked angular leaf spots, vein blight, black stem lesions, boll rot.) Tj ET
+BT /F1 8.5 Tf 35 449 Td (  Management: Acid delinting; spray Copper Oxychloride 50 WP \(2.5 g/L\) + Streptocycline \(100 ppm\) at 15-day intervals on symptom appearance.) Tj ET
+BT /F1 8.5 Tf 35 437 Td (- Fusarium Wilt \(F. oxysporum f. sp. vasinfectum\) & Verticillium Wilt \(V. dahliae\): Yellowing, wilting, dark brown vascular ring discoloration.) Tj ET
+BT /F1 8.5 Tf 35 425 Td (  Management: Potash application; seed & soil application of Trichoderma harzianum + Pseudomonas fluorescens; spot drench Carbendazim \(1 g/L\).) Tj ET
+BT /F1 8.5 Tf 35 413 Td (- Root Rot \(Rhizoctonia bataticola / R. solani\): Sudden wilting in patches; shredded bark on roots. Manage by intercropping with Mothbean/Sorghum.) Tj ET
+BT /F1 8.5 Tf 35 401 Td (- Grey Mildew \(Ramularia areola\) & Alternaria Leaf Spot: Frosty white growth on lower leaves or concentric brown rings. Spray Azoxystrobin + Tebuconazole.) Tj ET
+
+BT /F2 10 Tf 35 381 Td (9. Defoliation, Harvesting, Post-Harvest & Fiber Quality Grading) Tj ET
+BT /F1 8.5 Tf 35 368 Td (- Defoliation & Boll Opening: For mechanical picking, apply Thidiazuron + Diuron \(at 60% boll opening\) and Ethephon 39 SL to synchronize boll opening.) Tj ET
+BT /F1 8.5 Tf 35 356 Td (- Harvesting Protocol: Pick dry seed-cotton \(Kapas\) in morning hours after dew evaporates; keep 3-4 pickings separate \(first & last pickings are inferior\).) Tj ET
+BT /F1 8.5 Tf 35 344 Td (- Post-Harvest Storage: Dry Kapas in shade to <8-10% moisture; store in clean cotton cloth bags \(avoid polypropylene bags to prevent fiber contamination\).) Tj ET
+BT /F1 8.5 Tf 35 332 Td (- Ginning & Parameters: Ginning Outturn \(GOT\) is typically 32-36% lint and 64-68% seed. High Volume Instrument \(HVI\) grades: Upper Half Mean Length) Tj ET
+BT /F1 8.5 Tf 35 320 Td (  \(UHML: Short <20 mm, Long 25-30 mm, Extra-Long >32 mm\), Micronaire \(fineness: optimal 3.5-4.9\), Bundle Tenacity \(>28 g/tex\), and Trash Content.) Tj ET
 endstream
 endobj
 xref
-0 6
+0 9
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000311 00000 n 
+0000000121 00000 n 
+0000000258 00000 n 
+0000000395 00000 n 
+0000000463 00000 n 
+0000000536 00000 n 
+0000004838 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 9 /Root 1 0 R >>
 startxref
-1546
+9200
 %%EOF
