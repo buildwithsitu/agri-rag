@@ -25,9 +25,9 @@ NUM_RETRIEVED_DOCS = 3  # Number of document chunks to retrieve
 # Model Configuration
 TEMPERATURE = 0.2  # Low temperature for accurate, grounded agricultural answers
 
-# Gemini models (Free tier available at https://aistudio.google.com/app/apikey)
-GEMINI_MODEL = "gemini-1.5-flash"
-GEMINI_EMBEDDING_MODEL = "models/text-embedding-004"
+# Gemini models (Using Google's active models)
+GEMINI_MODEL = "gemini-3.8-flash"
+GEMINI_EMBEDDING_MODEL = "models/gemini-embedding-001"
 
 # OpenAI models
 OPENAI_MODEL = "gpt-3.5-turbo"
