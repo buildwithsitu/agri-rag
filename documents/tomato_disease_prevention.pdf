@@ -3,41 +3,121 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
 endobj
 5 0 obj
-<< /Length 1137 >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 4465 >>
 stream
-BT /F1 14 Tf 50 720 Td (Tomato Disease Prevention and Management) Tj ET
-BT /F1 10 Tf 50 690 Td (Tomato \(Solanum lycopersicum\) is prone to various fungal and bacterial infections.) Tj ET
-BT /F1 10 Tf 50 672 Td (Common Diseases:) Tj ET
-BT /F1 10 Tf 50 654 Td (1. Early Blight \(Alternaria solani\): Brown circular spots with concentric rings on leaves.) Tj ET
-BT /F1 10 Tf 50 636 Td (   Management: Space plants well for airflow. Apply copper-based fungicides or chlorothalonil.) Tj ET
-BT /F1 10 Tf 50 618 Td (2. Late Blight \(Phytophthora infestans\): Rapid water-soaked dark lesions on foliage and fruit.) Tj ET
-BT /F1 10 Tf 50 600 Td (   Management: Avoid overhead irrigation, remove infected plants immediately.) Tj ET
-BT /F1 10 Tf 50 582 Td (3. Fusarium Wilt: Yellowing of lower leaves progressing upwards.) Tj ET
-BT /F1 10 Tf 50 564 Td (   Management: Use resistant varieties and practice crop rotation with non-solanaceous crops.) Tj ET
-BT /F1 10 Tf 50 546 Td (General Prevention Practices:) Tj ET
-BT /F1 10 Tf 50 528 Td (Maintain proper soil drainage, practice drip irrigation, and mulch the soil to prevent spore splash.) Tj ET
+BT /F2 13 Tf 35 755 Td (Comprehensive Tomato \(Solanum lycopersicum\) Disease, IPM & Agronomy Guide - Page 1) Tj ET
 
+BT /F2 10 Tf 35 732 Td (1. Fungal & Oomycete Diseases \(Foliar, Fruit & Soil-Borne\)) Tj ET
+BT /F2 9 Tf 35 718 Td (A. Early Blight \(Alternaria solani & A. tomatophila\)) Tj ET
+BT /F1 8.5 Tf 35 706 Td (- Symptoms: Dark brown target-like concentric rings \(bull's-eye lesions\) with yellow halos on older lower leaves; sunken stem cankers) Tj ET
+BT /F1 8.5 Tf 35 694 Td (  \(collar rot\) in seedlings; leathery sunken black lesions around the fruit calyx.) Tj ET
+BT /F1 8.5 Tf 35 682 Td (- Management: Stake and prune lower leaves \(up to 30 cm\); apply protectant Mancozeb 75 WP \(2.5 g/L\) or Chlorothalonil; rotate systemic) Tj ET
+BT /F1 8.5 Tf 35 670 Td (  strobilurins/SDHIs: Azoxystrobin 23 SC \(1 ml/L\), Boscalid, or Difenoconazole \(0.5 ml/L\) to prevent FRAC Group 11 resistance.) Tj ET
+
+BT /F2 9 Tf 35 654 Td (B. Late Blight \(Phytophthora infestans - Oomycete\)) Tj ET
+BT /F1 8.5 Tf 35 642 Td (- Symptoms: Rapidly expanding, irregular pale-green to dark water-soaked foliar lesions; white downy sporangia on leaf undersides in) Tj ET
+BT /F1 8.5 Tf 35 630 Td (  cool, wet weather \(15-22 C, >90% RH\); greasy brown-bronze firm rot on green and ripe fruit.) Tj ET
+BT /F1 8.5 Tf 35 618 Td (- Management: Forecast via Blightcast models; grow Ph-2/Ph-3 resistant hybrids; prophylactic Mancozeb spray; curative targeted sprays) Tj ET
+BT /F1 8.5 Tf 35 606 Td (  of Cymoxanil + Mancozeb \(2.5 g/L\), Dimethomorph 50 WP \(1 g/L\), Mandipropamid 23.4 SC \(0.8 ml/L\), or Oxathiapiprolin \(FRAC 49\).) Tj ET
+
+BT /F2 9 Tf 35 590 Td (C. Fusarium Wilt \(Fusarium oxysporum f. sp. lycopersici - Races 1, 2, 3\) & Verticillium Wilt \(V. dahliae\)) Tj ET
+BT /F1 8.5 Tf 35 578 Td (- Symptoms: Unilateral yellowing of lower leaflets \(often on one side of petiole/plant\), progressive upward wilting during midday heat,) Tj ET
+BT /F1 8.5 Tf 35 566 Td (  stunted growth, and reddish-brown discoloration of xylem vascular tissue when stem is sliced near soil line.) Tj ET
+BT /F1 8.5 Tf 35 554 Td (- Management: Plant I-1, I-2, I-3 \(Fusarium\) and Ve \(Verticillium\) resistant hybrids; graft scions onto resistant interspecific rootstocks) Tj ET
+BT /F1 8.5 Tf 35 542 Td (  \(e.g., S. habrochaites\); maintain soil pH 6.5-7.0 using nitrate-N \(avoid ammonium-N\); drench Trichoderma harzianum \(10 g/L\).) Tj ET
+
+BT /F2 9 Tf 35 526 Td (D. Septoria Leaf Spot \(Septoria lycopersici\), Gray Mold \(Botrytis cinerea\), Powdery Mildew & Southern Blight) Tj ET
+BT /F1 8.5 Tf 35 514 Td (- Septoria: Numerous small \(2-3 mm\) circular spots with gray-white centers, dark margins, and tiny black pycnidia. Spray Copper/Azoxystrobin.) Tj ET
+BT /F1 8.5 Tf 35 502 Td (- Gray Mold: Ghost spots \(pale halos\) on fruit and fuzzy gray-brown conidia on pruning wounds in humid greenhouses. Spray Fenhexamid/Fludioxonil.) Tj ET
+BT /F1 8.5 Tf 35 490 Td (- Powdery Mildew \(Leveillula taurica / Oidium neolycopersici\): Talc-like white patches or yellow blotches. Spray Wettable Sulfur \(2 g/L\) or Myclobutanil.) Tj ET
+BT /F1 8.5 Tf 35 478 Td (- Southern Blight / Collar Rot \(Sclerotium rolfsii\): Rapid wilting with white fan-like mycelial mat and mustard-seed-like brown sclerotia at collar.) Tj ET
+
+BT /F2 10 Tf 35 458 Td (2. Major Bacterial Diseases) Tj ET
+BT /F1 8.5 Tf 35 445 Td (- Bacterial Wilt \(Ralstonia solanacearum\): Sudden green wilting without foliar yellowing; pith browning; milky bacterial ooze streams from cut) Tj ET
+BT /F1 8.5 Tf 35 433 Td (  stem suspended in clear water. Control: Bio-fumigation with brassicas; graft onto Hawaii 7996/eggplant rootstock; drench Pseudomonas fluorescens.) Tj ET
+BT /F1 8.5 Tf 35 421 Td (- Bacterial Canker \(Clavibacter michiganensis subsp. michiganensis\): 'Firing' \(marginal necrosis\) of leaflets, longitudinal stem cankers, and) Tj ET
+BT /F1 8.5 Tf 35 409 Td (  diagnostic 'bird's-eye' spots \(dark center with white halo\) on fruit. Control: Hot water seed treatment \(50 C for 25 min\); tool disinfection.) Tj ET
+BT /F1 8.5 Tf 35 397 Td (- Bacterial Spot \(Xanthomonas spp.\) & Speck \(Pseudomonas syringae pv. tomato\): Greasy water-soaked leaf spots and raised scabby fruit) Tj ET
+BT /F1 8.5 Tf 35 385 Td (  lesions. Control: Spray Copper Hydroxide + Mancozeb tank-mix \(fixed copper mobilization\), Streptomycin \(where permitted\), or Acibenzolar-S-methyl.) Tj ET
+
+BT /F2 10 Tf 35 365 Td (3. Emerging & High-Impact Viral Diseases & Phytoplasma) Tj ET
+BT /F1 8.5 Tf 35 352 Td (- Tomato Brown Rugose Fruit Virus \(ToBRFV - Tobamovirus\): CRITICAL GLOBAL THREAT. Breaks Tm-2^2 resistance gene. Causes mosaic,) Tj ET
+BT /F1 8.5 Tf 35 340 Td (  fern-leaf narrowing, necrotic peduncles, and wrinkled brown 'rugose' blotches on fruit. Spread mechanically by hands, tools, bumblebees, and seed.) Tj ET
+BT /F1 8.5 Tf 35 328 Td (  Control: Certified GSPP seed; dip tools in 2% Virkon S or 10% trisodium phosphate \(TSP\); deploy newly bred ToBRFV intermediate-resistant hybrids.) Tj ET
+BT /F1 8.5 Tf 35 316 Td (- Tomato Yellow Leaf Curl Virus \(TYLCV - Begomovirus\): Vectored by Whitefly \(Bemisia tabaci\). Causes severe stunting, upward cup-like leaf) Tj ET
+BT /F1 8.5 Tf 35 304 Td (  curling, interveinal chlorosis, and flower drop. Control: Grow Ty-1/Ty-2/Ty-3/Ty-6 gene pyramids; 50-mesh insect-proof net houses; vector control.) Tj ET
+BT /F1 8.5 Tf 35 292 Td (- Tomato Spotted Wilt Virus \(TSWV - Orthotospovirus\): Vectored by Western Flower Thrips \(Frankliniella occidentalis\). Causes bronzing of upper) Tj ET
+BT /F1 8.5 Tf 35 280 Td (  leaves, tip dieback, and striking concentric yellow/orange ringspots on ripe fruit. Control: Sw-5 resistant cultivars; blue sticky traps; Spinetoram.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4395 >>
+stream
+BT /F2 13 Tf 35 755 Td (Comprehensive Tomato \(Solanum lycopersicum\) Disease, IPM & Agronomy Guide - Page 2) Tj ET
+
+BT /F2 10 Tf 35 732 Td (4. Key Insect Pests, Vectors & Root-Knot Nematodes \(IPM & ETL\)) Tj ET
+BT /F1 8.5 Tf 35 719 Td (- South American Tomato Pinworm \(Tuta absoluta\): Devastating invasive pest. Larvae mine leaf mesophyll creating silvery blotch mines with dark) Tj ET
+BT /F1 8.5 Tf 35 707 Td (  frass, and bore pinholes under fruit calyx. ETL: 1-2 mines/plant or 3-5 moths/pheromone trap/day. Control: Mass trapping \(25-40 water/delta) Tj ET
+BT /F1 8.5 Tf 35 695 Td (  traps/ha\); Nesidiocoris tenuis mirid bug; Trichogramma achaeae; spray Chlorantraniliprole 18.5 SC \(0.3 ml/L\), Spinetoram, or Cyantraniliprole.) Tj ET
+BT /F1 8.5 Tf 35 683 Td (- Tomato Fruit Borer \(Helicoverpa armigera\): Larvae bore circular holes into developing fruits with half body outside. ETL: 1 larva/plant or 2%) Tj ET
+BT /F1 8.5 Tf 35 671 Td (  damaged fruit. Control: African Marigold \(Tagetes erecta\) trap crop \(1:16 row ratio\); HaNPV \(250 LE/ha\); Emamectin benzoate or Indoxacarb.) Tj ET
+BT /F1 8.5 Tf 35 659 Td (- Whiteflies \(Bemisia tabaci\), Thrips & Aphids: Sap feeders & virus vectors \(TYLCV, TSWV, CMV\). Control: Yellow/Blue sticky traps \(25/ha\);) Tj ET
+BT /F1 8.5 Tf 35 647 Td (  reflective silver plastic mulch; spray Flonicamid 50 WG \(0.3 g/L\), Spiromesifen 22.9 SC \(1 ml/L\), Afidopyropen, or Azadirachtin 10000 ppm.) Tj ET
+BT /F1 8.5 Tf 35 635 Td (- Two-Spotted Spider Mite \(Tetranychus urticae\) & Russet Mite \(Aculops lycopersici\): Cause bronze stippling, webbing, and russeted cracked stems.) Tj ET
+BT /F1 8.5 Tf 35 623 Td (  Control: Release predatory mite Phytoseiulus persimilis; spray Abamectin 1.9 EC \(0.5 ml/L\), Bifenazate, or Fenpyroximate.) Tj ET
+BT /F1 8.5 Tf 35 611 Td (- Root-Knot Nematodes \(Meloidogyne incognita & M. javanica\): Cause root galls, nutrient starvation, wilting, and predispose roots to Fusarium/Ralstonia.) Tj ET
+BT /F1 8.5 Tf 35 599 Td (  Control: Soil solarization; Mi-1.2 resistant varieties \(note: Mi-1 breaks down at soil temps >28 C\); apply Purpureocillium lilacinum or Fluopyram.) Tj ET
+
+BT /F2 10 Tf 35 579 Td (5. Non-Infectious Physiological & Abiotic Disorders) Tj ET
+BT /F1 8.5 Tf 35 566 Td (- Blossom End Rot \(BER\): Sunken, black, leathery necrotic patch at the blossom \(distal\) end of fruit. Caused by localized Calcium \(Ca2+\) deficiency) Tj ET
+BT /F1 8.5 Tf 35 554 Td (  in fruit tissue triggered by erratic soil moisture, high salinity, or excessive Ammonium/Potassium antagonism. Control: Maintain uniform drip moisture;) Tj ET
+BT /F1 8.5 Tf 35 542 Td (  apply Calcium Nitrate \(Ca\(NO3\)2\) via fertigation; foliar spray 0.5% Calcium Chloride or chelated Ca + Boron directly onto young fruit clusters.) Tj ET
+BT /F1 8.5 Tf 35 530 Td (- Fruit Cracking \(Radial & Concentric\): Caused by rapid water influx after dry spells and wide day/night temp swings. Control: Uniform irrigation + Boron.) Tj ET
+BT /F1 8.5 Tf 35 518 Td (- Blotchy Ripening, Yellow Shoulder & Graywall: Green/yellow hard patches on ripe fruit due to Potassium \(K\) deficiency, high fruit temp \(>32 C) Tj ET
+BT /F1 8.5 Tf 35 506 Td (  inhibits lycopene synthesis\), or whitefly feeding. Control: Maintain K:N ratio of 2:1 during fruiting; spray 2% Potassium Sulfate \(0:0:50\).) Tj ET
+BT /F1 8.5 Tf 35 494 Td (- Catfacing, Puffiness & Sunscald: Catfacing \(puckered scars\) occurs from cold temps \(<13 C\) during flower bud development; Sunscald \(white) Tj ET
+BT /F1 8.5 Tf 35 482 Td (  blistered patches\) results from over-pruning or defoliation. Control: Avoid excessive pruning on sun-exposed sides; apply kaolin clay particle film.) Tj ET
+
+BT /F2 10 Tf 35 462 Td (6. Modern Agronomic Practices, Fertigation & Biosecurity) Tj ET
+BT /F1 8.5 Tf 35 449 Td (- Nursery & Grafting: Raise seedlings in sterilized cocopeat protrays inside 50-mesh insect-proof net houses; splice-graft elite scions onto vigorous) Tj ET
+BT /F1 8.5 Tf 35 437 Td (  solanaceous rootstocks \(Maxifort, Beaufort, or wild brinjal Solanum torvum\) to conquer Bacterial Wilt, Fusarium, Nematodes, and root hypoxia.) Tj ET
+BT /F1 8.5 Tf 35 425 Td (- Mulching & Drip Irrigation: Lay 25-30 micron silver-on-black polyethylene mulch on raised beds \(30 cm high\); silver reflects UV light to repel) Tj ET
+BT /F1 8.5 Tf 35 413 Td (  aphids/whiteflies/thrips, while black suppresses weeds and stops soil-to-leaf spore splash of Early/Late Blight and Septoria.) Tj ET
+BT /F1 8.5 Tf 35 401 Td (- Precision Fertigation \(Open-Field Hybrid Target: 60-80 t/ha\): Total nutrient budget ~180-200 kg N, 100-120 kg P2O5, 220-250 kg K2O/ha.) Tj ET
+BT /F1 8.5 Tf 35 389 Td (  Stage 1 \(Establishment, 1-20 DAT\): High Phosphorus \(19:19:19 + 12:61:0\). Stage 2 \(Vegetative to Flowering, 21-50 DAT\): Balanced NPK + Ca\(NO3\)2) Tj ET
+BT /F1 8.5 Tf 35 377 Td (  + Borax \(prevents flower drop\). Stage 3 \(Fruit Set to Ripening, 51-120+ DAT\): High Potassium \(13:0:45 & 0:0:50\) + MgSO4 for Brix and firmness.) Tj ET
+BT /F1 8.5 Tf 35 365 Td (- Standard Genetic Resistance Codes \(Seed Catalog Key\): V \(Verticillium\), F / Fol: 1,2,3 \(Fusarium races\), N \(Nematodes\), T / ToMV \(Tomato) Tj ET
+BT /F1 8.5 Tf 35 353 Td (  Mosaic\), TSWV \(Spotted Wilt\), TYLCV \(Yellow Leaf Curl\), IR: ToBRFV \(Rugose Virus\), Ph / LB \(Late Blight\), AB / EB \(Early Blight\), BW \(Bacterial Wilt\).) Tj ET
 endstream
 endobj
 xref
-0 6
+0 9
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000311 00000 n 
+0000000121 00000 n 
+0000000258 00000 n 
+0000000395 00000 n 
+0000000463 00000 n 
+0000000536 00000 n 
+0000005053 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 9 /Root 1 0 R >>
 startxref
-1500
+9500
 %%EOF
