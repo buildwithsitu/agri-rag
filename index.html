@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌾 Agri Crop Management Q&A - Web Portal</title>
+    <style>
+        :root {
+            --primary: #2e7d32;
+            --primary-dark: #1b5e20;
+            --primary-light: #e8f5e9;
+            --accent: #f57f17;
+            --bg: #f8faf9;
+            --card-bg: #ffffff;
+            --text-main: #212529;
+            --text-muted: #555e67;
+            --border: #e0e6ed;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 24px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 36px 30px;
+            border-radius: 16px;
+            box-shadow: 0 8px 24px rgba(46, 125, 50, 0.15);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.92;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .notice-banner {
+            background: #fff8e1;
+            border-left: 5px solid #ffa000;
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: flex-start;
+            gap: 14px;
+        }
+
+        .notice-icon {
+            font-size: 1.5rem;
+        }
+
+        .btn-launch {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 600;
+            margin-top: 10px;
+            transition: all 0.2s ease;
+        }
+
+        .btn-launch:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+        }
+
+        .code-box {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 14px 18px;
+            border-radius: 8px;
+            font-family: Consolas, "Courier New", Courier, monospace;
+            font-size: 0.95rem;
+            margin: 12px 0;
+            overflow-x: auto;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        @media (max-width: 650px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            background: var(--primary-light);
+            color: var(--primary-dark);
+        }
+
+        .doc-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .doc-item:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>🌾 Agri Crop Management Q&A</h1>
+        <p>Retrieval-Augmented Generation (RAG) assistant for crop management, disease prevention, and pest control.</p>
+    </div>
+
+    <div class="notice-banner" style="background: #e8f5e9; border-left-color: #2e7d32;">
+        <div class="notice-icon">✨</div>
+        <div>
+            <strong>Google Gemini Free Tier Enabled!</strong><br>
+            You can use Google Gemini (Flash & Text-Embedding-004) completely for free with no credit card needed! 
+            <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color: #1b5e20; font-weight: bold; text-decoration: underline;">
+                Get your free Gemini API key here
+            </a>.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>🚀 Launch Interactive Streamlit Web App</h2>
+        <p style="margin-top: 8px; color: var(--text-muted);">
+            To start the full agricultural Q&A interactive UI:
+        </p>
+        <div class="code-box">
+            .\venv\Scripts\streamlit.exe run app.py
+        </div>
+        <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 14px;">
+            <a href="http://localhost:8502" target="_blank" class="btn-launch" style="background: #1b5e20;">
+                🟢 Open Running App (http://localhost:8502)
+            </a>
+            <a href="http://localhost:8501" target="_blank" class="btn-launch" style="background: #388e3c;">
+                👉 Open Alternative Port (http://localhost:8501)
+            </a>
+        </div>
+    </div>
+
+    <div class="grid-2">
+        <div class="card">
+            <h3>📚 Active Knowledge Base (PDFs)</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 12px;">Documents in <code>documents/</code>:</p>
+            <div class="doc-item">
+                <span>🐛 cotton_pest_control.pdf</span>
+                <span class="badge">Ready</span>
+            </div>
+            <div class="doc-item">
+                <span>🍅 tomato_disease_prevention.pdf</span>
+                <span class="badge">Ready</span>
+            </div>
+            <div class="doc-item">
+                <span>🌾 wheat_cultivation_guide.pdf</span>
+                <span class="badge">Ready</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>⚙️ Terminal CLI Mode</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 12px;">You can also ask questions directly inside your terminal:</p>
+            <div class="code-box" style="margin-top: 0;">
+                .\venv\Scripts\python.exe main.py
+            </div>
+            <p style="font-size: 0.85rem; color: var(--text-muted);">Builds Chroma vector database in <code>agri_db/</code> and runs an interactive Q&A prompt.</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <h3>❓ Example Questions to Ask</h3>
+        <ul style="padding-left: 20px; margin-top: 10px; color: var(--text-muted);">
+            <li>"What are common cotton pests and how can I manage them?"</li>
+            <li>"How do I prevent early and late blight in tomatoes?"</li>
+            <li>"What is the best irrigation schedule for wheat crops?"</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
+
